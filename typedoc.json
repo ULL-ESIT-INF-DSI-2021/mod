@@ -1,6 +1,13 @@
 {
   "entryPoints": [
-    "./src/basicFunctions.ts"
+    "./src/agua.ts",
+    "./src/fuego.ts",
+    "./src/fuegoCreator.ts",
+    "./src/aguaCreator.ts",
+    "./src/interfacePokemon.ts",
+    "./src/abstractPokeCreato.ts"
+
+    
   ],
   "out": "./docs"
 }
